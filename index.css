@@ -1,0 +1,26 @@
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+
+  @media screen and (min-width:992px) {
+    .position{
+        position: absolute;
+        right: 5rem;
+      }
+    
+      .position ul li a{
+        padding-right:5rem !important;
+      }  
+  }
+  
+  .container{
+    padding: 0.01em 16px;
+  }
+
+  .card-header{
+    padding: .1rem 1rem !important;
+  }
+
+  .card{
+    margin: 1rem;
+  }
